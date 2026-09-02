@@ -1,0 +1,12 @@
+{
+ "random_resplit_pct_by_seed": {
+  "0": 27.14,
+  "1": 31.49,
+  "2": 27.8,
+  "3": 30.3,
+  "4": 31.49
+ },
+ "random_mean": 29.64,
+ "random_std": 2.06,
+ "official_pct": 27.75
+}

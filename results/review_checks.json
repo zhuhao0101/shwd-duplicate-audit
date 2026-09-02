@@ -1,0 +1,35 @@
+{
+ "instances_by_source": {
+  "helmet_imagery": {
+   "hat": 9047,
+   "person": 1507,
+   "imgs": 3241
+  },
+  "PartA": {
+   "hat": 0,
+   "person": 67318,
+   "imgs": 1999
+  },
+  "PartB": {
+   "hat": 0,
+   "person": 42689,
+   "imgs": 2341
+  }
+ },
+ "scuthead_head_share_pct": 98.65,
+ "stage1_candidates": 115329,
+ "stage2_confirmed": 65843,
+ "stage2_rejected_pct": 42.91,
+ "B_removed": {
+  "helmet_imagery": 40,
+  "PartA": 1481,
+  "PartB": 13
+ },
+ "C_removed": {
+  "helmet_imagery": 630,
+  "PartA": 420,
+  "PartB": 484
+ },
+ "direct_pair_members": 2288,
+ "direct_pair_pct": 30.18
+}

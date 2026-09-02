@@ -1,0 +1,30 @@
+{
+ "test_full": {
+  "mAP50": 92.85,
+  "mAP50_95": 59.51,
+  "P": 92.31,
+  "R": 86.18,
+  "helmet_AP50": 92.08,
+  "head_AP50": 93.61
+ },
+ "test_leaked": {
+  "mAP50": 94.9,
+  "mAP50_95": 57.66,
+  "P": 92.8,
+  "R": 90.08,
+  "helmet_AP50": 97.27,
+  "head_AP50": 92.53
+ },
+ "test_clean": {
+  "mAP50": 93.45,
+  "mAP50_95": 63.19,
+  "P": 92.87,
+  "R": 86.24,
+  "helmet_AP50": 91.72,
+  "head_AP50": 95.18
+ },
+ "inflation_mAP50": -0.6,
+ "leaked_minus_clean_mAP50": 1.45,
+ "inflation_mAP50_95": -3.68,
+ "leaked_minus_clean_mAP50_95": -5.53
+}

@@ -1,0 +1,59 @@
+{
+ "name": "SHWD",
+ "images": 7581,
+ "confirmed_pairs": 65843,
+ "clusters": 193,
+ "images_in_clusters": 2288,
+ "pct_images_in_clusters": 30.18,
+ "largest_clusters": [
+  802,
+  288,
+  139,
+  113,
+  73,
+  67,
+  64,
+  63,
+  50,
+  35,
+  34,
+  30,
+  28,
+  27,
+  25
+ ],
+ "low_texture_images(std<20)": 0,
+ "params": {
+  "hamming": 6,
+  "corr_min": 0.9
+ },
+ "montage_members": {
+  "cluster0": [
+   "part2_000066.jpg",
+   "part2_001430.jpg"
+  ],
+  "cluster1": [
+   "part2_000244.jpg",
+   "part2_000516.jpg"
+  ],
+  "cluster2": [
+   "PartA_00002.jpg",
+   "PartA_00068.jpg",
+   "PartA_00103.jpg",
+   "PartA_00180.jpg",
+   "PartA_00204.jpg"
+  ],
+  "cluster3": [
+   "000603.jpg",
+   "part2_001952.jpg"
+  ],
+  "cluster4": [
+   "part2_001018.jpg",
+   "part2_001107.jpg"
+  ],
+  "cluster5": [
+   "part2_000883.jpg",
+   "part2_001780.jpg"
+  ]
+ }
+}

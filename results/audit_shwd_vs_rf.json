@@ -1,0 +1,92 @@
+{
+ "a_name": "SHWD",
+ "b_name": "RoboflowHardHat-test",
+ "a_count": 7581,
+ "b_count": 2001,
+ "exact_identical_pairs": 0,
+ "near_duplicate_pairs": 42,
+ "a_images_with_match": 40,
+ "b_images_with_match": 38,
+ "a_overlap_pct": 0.53,
+ "b_overlap_pct": 1.9,
+ "intra_a_duplicate_pairs": 65843,
+ "intra_b_duplicate_pairs": 519,
+ "params": {
+  "hamming_threshold": 6,
+  "corr_min": 0.9
+ },
+ "sample_pairs": [
+  {
+   "a": "part2_000811.jpg",
+   "b": "ppe_0237_jpg.rf.0f538868b3e0961b59eddd8b342c4937.jpg",
+   "hamming": 2,
+   "corr": 0.9999
+  },
+  {
+   "a": "part2_001065.jpg",
+   "b": "ppe_0500_jpg.rf.98b4535653a6bde0c2836042a645cc71.jpg",
+   "hamming": 0,
+   "corr": 0.9999
+  },
+  {
+   "a": "000292.jpg",
+   "b": "ppe_0199_jpg.rf.552452f223eb29a7e0e4a62b54d6084f.jpg",
+   "hamming": 0,
+   "corr": 1.0
+  },
+  {
+   "a": "001637.jpg",
+   "b": "ppe_0356_jpg.rf.eb50aa0b310e57c8bd6ee07d48002741.jpg",
+   "hamming": 0,
+   "corr": 0.9998
+  },
+  {
+   "a": "part2_001738.jpg",
+   "b": "ppe_0384_jpg.rf.7a6962efc8814a63fddc259ac699f4d1.jpg",
+   "hamming": 0,
+   "corr": 0.992
+  },
+  {
+   "a": "part2_001565.jpg",
+   "b": "ppe_0277_jpg.rf.d017377c13890a1e933970d953fc8d3c.jpg",
+   "hamming": 0,
+   "corr": 1.0
+  },
+  {
+   "a": "part2_000959.jpg",
+   "b": "ppe_0057_jpg.rf.ccf5ea0912b26ec5f8594b00c29ee573.jpg",
+   "hamming": 0,
+   "corr": 0.9999
+  },
+  {
+   "a": "part2_000446.jpg",
+   "b": "ppe_0301_jpg.rf.b2d7a8c322bd266c6b9c7bd838338ab3.jpg",
+   "hamming": 0,
+   "corr": 0.9999
+  },
+  {
+   "a": "part2_001506.jpg",
+   "b": "ppe_0547_jpg.rf.cd426fc752772897b43e787d1e5efa0f.jpg",
+   "hamming": 0,
+   "corr": 1.0
+  },
+  {
+   "a": "part2_000699.jpg",
+   "b": "ppe_0130_jpg.rf.40b8c6420da8b98c40c7d0f6bfe120e6.jpg",
+   "hamming": 0,
+   "corr": 1.0
+  },
+  {
+   "a": "001262.jpg",
+   "b": "000942_jpg.rf.acf7d544c082415759a8cf3addc78a02.jpg",
+   "hamming": 6,
+   "corr": 0.992
+  },
+  {
+   "a": "part2_002297.jpg",
+   "b": "ppe_0333_jpg.rf.0dd4ed9846ef0c3e31b271c47191fc11.jpg",
+   "hamming": 0,
+   "corr": 0.9999
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+{
+ "test_images": 1517,
+ "trainval_images": 6064,
+ "test_images_with_near_dup_in_trainval": 421,
+ "leakage_pct_of_test": 27.75,
+ "total_leaking_pairs": 20322,
+ "params": {
+  "hamming": 6,
+  "corr_min": 0.9
+ }
+}
