@@ -1,0 +1,25 @@
+# Training protocol used for every reported run (Ultralytics 8.4)
+# YOLOv8n (main experiments) and YOLOv8s (Section 4.9): identical schedule.
+yolo:
+  model: yolov8n.pt        # yolov8s.pt for Section 4.9
+  epochs: 40
+  imgsz: 640
+  batch: 16
+  pretrained: true
+  deterministic: false
+  patience: 50
+  seeds: [0, 1, 2]
+# RT-DETR-l (Section 4.9): directional check only — the largest setting that
+# fits an 8 GB GPU; reported as such in the manuscript.
+rtdetr_l:
+  model: rtdetr-l.pt
+  epochs: 12
+  imgsz: 512
+  batch: 8
+  pretrained: true
+  seeds: [0]
+common:
+  val: false               # no validation pass on evaluation data; the data file's
+                           # val entry is a 32-image stub of training images
+  weights_evaluated: last.pt   # final epoch; no checkpoint selection
+  evaluation: {batch: 1, split: test, imgsz: same as training, metrics: [mAP50, mAP50_95, per-class AP50]}

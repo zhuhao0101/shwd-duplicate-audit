@@ -1,0 +1,320 @@
+{
+  "model": "rtdetr-l",
+  "weights": "last.pt",
+  "seeds": [
+    0
+  ],
+  "batch": 8,
+  "imgsz": 512,
+  "epochs": 12,
+  "raw": {
+    "A": {
+      "test_leaked": [
+        {
+          "seed": 0,
+          "mAP50": 95.7,
+          "mAP50_95": 58.26,
+          "helmet_AP50": 97.13,
+          "head_AP50": 94.26
+        }
+      ],
+      "test_clean": [
+        {
+          "seed": 0,
+          "mAP50": 94.67,
+          "mAP50_95": 64.35,
+          "helmet_AP50": 93.84,
+          "head_AP50": 95.5
+        }
+      ],
+      "test_full": [
+        {
+          "seed": 0,
+          "mAP50": 94.3,
+          "mAP50_95": 60.94,
+          "helmet_AP50": 94.03,
+          "head_AP50": 94.57
+        }
+      ],
+      "test_scutA": [
+        {
+          "seed": 0,
+          "mAP50": 94.27,
+          "mAP50_95": 43.66,
+          "head_AP50": 94.27
+        }
+      ],
+      "test_helmet": [
+        {
+          "seed": 0,
+          "mAP50": 84.4,
+          "mAP50_95": 59.78,
+          "helmet_AP50": 94.09,
+          "head_AP50": 74.72
+        }
+      ]
+    },
+    "B": {
+      "test_leaked": [
+        {
+          "seed": 0,
+          "mAP50": 92.92,
+          "mAP50_95": 55.78,
+          "helmet_AP50": 96.31,
+          "head_AP50": 89.53
+        }
+      ],
+      "test_clean": [
+        {
+          "seed": 0,
+          "mAP50": 94.66,
+          "mAP50_95": 64.63,
+          "helmet_AP50": 94.04,
+          "head_AP50": 95.27
+        }
+      ],
+      "test_full": [
+        {
+          "seed": 0,
+          "mAP50": 92.91,
+          "mAP50_95": 59.71,
+          "helmet_AP50": 94.14,
+          "head_AP50": 91.69
+        }
+      ],
+      "test_scutA": [
+        {
+          "seed": 0,
+          "mAP50": 89.45,
+          "mAP50_95": 38.15,
+          "head_AP50": 89.45
+        }
+      ],
+      "test_helmet": [
+        {
+          "seed": 0,
+          "mAP50": 84.66,
+          "mAP50_95": 60.59,
+          "helmet_AP50": 94.2,
+          "head_AP50": 75.11
+        }
+      ]
+    }
+  },
+  "agg": {
+    "A": {
+      "test_leaked": {
+        "mAP50": {
+          "mean": 95.7,
+          "std": 0.0,
+          "n": 1
+        },
+        "mAP50_95": {
+          "mean": 58.26,
+          "std": 0.0,
+          "n": 1
+        },
+        "helmet_AP50": {
+          "mean": 97.13,
+          "std": 0.0,
+          "n": 1
+        },
+        "head_AP50": {
+          "mean": 94.26,
+          "std": 0.0,
+          "n": 1
+        }
+      },
+      "test_clean": {
+        "mAP50": {
+          "mean": 94.67,
+          "std": 0.0,
+          "n": 1
+        },
+        "mAP50_95": {
+          "mean": 64.35,
+          "std": 0.0,
+          "n": 1
+        },
+        "helmet_AP50": {
+          "mean": 93.84,
+          "std": 0.0,
+          "n": 1
+        },
+        "head_AP50": {
+          "mean": 95.5,
+          "std": 0.0,
+          "n": 1
+        }
+      },
+      "test_full": {
+        "mAP50": {
+          "mean": 94.3,
+          "std": 0.0,
+          "n": 1
+        },
+        "mAP50_95": {
+          "mean": 60.94,
+          "std": 0.0,
+          "n": 1
+        },
+        "helmet_AP50": {
+          "mean": 94.03,
+          "std": 0.0,
+          "n": 1
+        },
+        "head_AP50": {
+          "mean": 94.57,
+          "std": 0.0,
+          "n": 1
+        }
+      },
+      "test_scutA": {
+        "mAP50": {
+          "mean": 94.27,
+          "std": 0.0,
+          "n": 1
+        },
+        "mAP50_95": {
+          "mean": 43.66,
+          "std": 0.0,
+          "n": 1
+        },
+        "head_AP50": {
+          "mean": 94.27,
+          "std": 0.0,
+          "n": 1
+        }
+      },
+      "test_helmet": {
+        "mAP50": {
+          "mean": 84.4,
+          "std": 0.0,
+          "n": 1
+        },
+        "mAP50_95": {
+          "mean": 59.78,
+          "std": 0.0,
+          "n": 1
+        },
+        "helmet_AP50": {
+          "mean": 94.09,
+          "std": 0.0,
+          "n": 1
+        },
+        "head_AP50": {
+          "mean": 74.72,
+          "std": 0.0,
+          "n": 1
+        }
+      }
+    },
+    "B": {
+      "test_leaked": {
+        "mAP50": {
+          "mean": 92.92,
+          "std": 0.0,
+          "n": 1
+        },
+        "mAP50_95": {
+          "mean": 55.78,
+          "std": 0.0,
+          "n": 1
+        },
+        "helmet_AP50": {
+          "mean": 96.31,
+          "std": 0.0,
+          "n": 1
+        },
+        "head_AP50": {
+          "mean": 89.53,
+          "std": 0.0,
+          "n": 1
+        }
+      },
+      "test_clean": {
+        "mAP50": {
+          "mean": 94.66,
+          "std": 0.0,
+          "n": 1
+        },
+        "mAP50_95": {
+          "mean": 64.63,
+          "std": 0.0,
+          "n": 1
+        },
+        "helmet_AP50": {
+          "mean": 94.04,
+          "std": 0.0,
+          "n": 1
+        },
+        "head_AP50": {
+          "mean": 95.27,
+          "std": 0.0,
+          "n": 1
+        }
+      },
+      "test_full": {
+        "mAP50": {
+          "mean": 92.91,
+          "std": 0.0,
+          "n": 1
+        },
+        "mAP50_95": {
+          "mean": 59.71,
+          "std": 0.0,
+          "n": 1
+        },
+        "helmet_AP50": {
+          "mean": 94.14,
+          "std": 0.0,
+          "n": 1
+        },
+        "head_AP50": {
+          "mean": 91.69,
+          "std": 0.0,
+          "n": 1
+        }
+      },
+      "test_scutA": {
+        "mAP50": {
+          "mean": 89.45,
+          "std": 0.0,
+          "n": 1
+        },
+        "mAP50_95": {
+          "mean": 38.15,
+          "std": 0.0,
+          "n": 1
+        },
+        "head_AP50": {
+          "mean": 89.45,
+          "std": 0.0,
+          "n": 1
+        }
+      },
+      "test_helmet": {
+        "mAP50": {
+          "mean": 84.66,
+          "std": 0.0,
+          "n": 1
+        },
+        "mAP50_95": {
+          "mean": 60.59,
+          "std": 0.0,
+          "n": 1
+        },
+        "helmet_AP50": {
+          "mean": 94.2,
+          "std": 0.0,
+          "n": 1
+        },
+        "head_AP50": {
+          "mean": 75.11,
+          "std": 0.0,
+          "n": 1
+        }
+      }
+    }
+  }
+}

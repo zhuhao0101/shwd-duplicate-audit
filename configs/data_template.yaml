@@ -1,0 +1,6 @@
+train: <images of the training configuration>
+val: <32-image stub drawn from the training images>
+test: <evaluation subset>
+names:
+  0: helmet
+  1: head

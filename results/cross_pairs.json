@@ -1,0 +1,393 @@
+{
+ "external_collection": "keremberke/hard-hat-detection, test split",
+ "external_images": 2001,
+ "shwd_images": 7581,
+ "params": {
+  "hamming": 6,
+  "corr_min": 0.9
+ },
+ "stage1_candidates": 42,
+ "confirmed_pairs": 42,
+ "shwd_images_matched": 40,
+ "external_images_matched": 38,
+ "pairs": [
+  {
+   "pair_id": "X001",
+   "shwd": "000012",
+   "external": "ppe_0199_jpg.rf.552452f223eb29a7e0e4a62b54d6084f.jpg",
+   "hamming": 0,
+   "ncc": 1.0,
+   "shwd_split": "trainval",
+   "shwd_source": "helmet imagery"
+  },
+  {
+   "pair_id": "X002",
+   "shwd": "000292",
+   "external": "ppe_0199_jpg.rf.552452f223eb29a7e0e4a62b54d6084f.jpg",
+   "hamming": 0,
+   "ncc": 1.0,
+   "shwd_split": "trainval",
+   "shwd_source": "helmet imagery"
+  },
+  {
+   "pair_id": "X003",
+   "shwd": "000339",
+   "external": "ppe_0199_jpg.rf.552452f223eb29a7e0e4a62b54d6084f.jpg",
+   "hamming": 0,
+   "ncc": 1.0,
+   "shwd_split": "trainval",
+   "shwd_source": "helmet imagery"
+  },
+  {
+   "pair_id": "X004",
+   "shwd": "000398",
+   "external": "ppe_0120_jpg.rf.0536debecb350f32ae761258c8f59168.jpg",
+   "hamming": 0,
+   "ncc": 1.0,
+   "shwd_split": "test",
+   "shwd_source": "helmet imagery"
+  },
+  {
+   "pair_id": "X005",
+   "shwd": "part2_000070",
+   "external": "ppe_0550_jpg.rf.51ff9c436f7c26a1a1b48353bfc0bd62.jpg",
+   "hamming": 0,
+   "ncc": 1.0,
+   "shwd_split": "test",
+   "shwd_source": "helmet imagery"
+  },
+  {
+   "pair_id": "X006",
+   "shwd": "part2_000648",
+   "external": "ppe_1004_jpg.rf.54a6b92fde518fc670c378d04c3093d2.jpg",
+   "hamming": 0,
+   "ncc": 1.0,
+   "shwd_split": "trainval",
+   "shwd_source": "helmet imagery"
+  },
+  {
+   "pair_id": "X007",
+   "shwd": "part2_000699",
+   "external": "ppe_0130_jpg.rf.40b8c6420da8b98c40c7d0f6bfe120e6.jpg",
+   "hamming": 0,
+   "ncc": 1.0,
+   "shwd_split": "trainval",
+   "shwd_source": "helmet imagery"
+  },
+  {
+   "pair_id": "X008",
+   "shwd": "part2_000725",
+   "external": "front_crawling_00728_jpg.rf.b746f6471726bdaea875a12a4da0cc8b.jpg",
+   "hamming": 0,
+   "ncc": 1.0,
+   "shwd_split": "trainval",
+   "shwd_source": "helmet imagery"
+  },
+  {
+   "pair_id": "X009",
+   "shwd": "part2_001506",
+   "external": "ppe_0547_jpg.rf.cd426fc752772897b43e787d1e5efa0f.jpg",
+   "hamming": 0,
+   "ncc": 1.0,
+   "shwd_split": "trainval",
+   "shwd_source": "helmet imagery"
+  },
+  {
+   "pair_id": "X010",
+   "shwd": "part2_001565",
+   "external": "ppe_0277_jpg.rf.d017377c13890a1e933970d953fc8d3c.jpg",
+   "hamming": 0,
+   "ncc": 1.0,
+   "shwd_split": "test",
+   "shwd_source": "helmet imagery"
+  },
+  {
+   "pair_id": "X011",
+   "shwd": "part2_001833",
+   "external": "ppe_0024_jpg.rf.2863da94680c54342a3410a20b8598a9.jpg",
+   "hamming": 0,
+   "ncc": 1.0,
+   "shwd_split": "trainval",
+   "shwd_source": "helmet imagery"
+  },
+  {
+   "pair_id": "X012",
+   "shwd": "part2_002178",
+   "external": "ppe_0005_jpg.rf.9f92b4a128561fc069c0ca66a8f02381.jpg",
+   "hamming": 0,
+   "ncc": 1.0,
+   "shwd_split": "trainval",
+   "shwd_source": "helmet imagery"
+  },
+  {
+   "pair_id": "X013",
+   "shwd": "000112",
+   "external": "000197_jpg.rf.154d650579430ec834a8f0e462f963e0.jpg",
+   "hamming": 0,
+   "ncc": 0.9999,
+   "shwd_split": "trainval",
+   "shwd_source": "helmet imagery"
+  },
+  {
+   "pair_id": "X014",
+   "shwd": "000352",
+   "external": "001014_jpg.rf.37073068aa4a598a284e96c5e8520652.jpg",
+   "hamming": 0,
+   "ncc": 0.9999,
+   "shwd_split": "trainval",
+   "shwd_source": "helmet imagery"
+  },
+  {
+   "pair_id": "X015",
+   "shwd": "000426",
+   "external": "ppe_0035_jpg.rf.4d713565fb4ae5f7357592b99ae465df.jpg",
+   "hamming": 0,
+   "ncc": 0.9999,
+   "shwd_split": "trainval",
+   "shwd_source": "helmet imagery"
+  },
+  {
+   "pair_id": "X016",
+   "shwd": "000754",
+   "external": "002717_jpg.rf.35b92ea8e0d7cf378d5cc1a87c5733f2.jpg",
+   "hamming": 0,
+   "ncc": 0.9999,
+   "shwd_split": "test",
+   "shwd_source": "helmet imagery"
+  },
+  {
+   "pair_id": "X017",
+   "shwd": "000894",
+   "external": "000187_jpg.rf.101e0fe6e237a92c214ad8281b6a7b14.jpg",
+   "hamming": 0,
+   "ncc": 0.9999,
+   "shwd_split": "trainval",
+   "shwd_source": "helmet imagery"
+  },
+  {
+   "pair_id": "X018",
+   "shwd": "000894",
+   "external": "000187_jpg.rf.9095eae011ace9f604bf3e987c926963.jpg",
+   "hamming": 0,
+   "ncc": 0.9999,
+   "shwd_split": "trainval",
+   "shwd_source": "helmet imagery"
+  },
+  {
+   "pair_id": "X019",
+   "shwd": "000992",
+   "external": "01185_jpg.rf.aef986e0abec473115e380ab90403fa8.jpg",
+   "hamming": 0,
+   "ncc": 0.9999,
+   "shwd_split": "trainval",
+   "shwd_source": "helmet imagery"
+  },
+  {
+   "pair_id": "X020",
+   "shwd": "000992",
+   "external": "ppe_0059_jpg.rf.7315badfc3c6854ee1b2fc82f910e0d0.jpg",
+   "hamming": 0,
+   "ncc": 0.9999,
+   "shwd_split": "trainval",
+   "shwd_source": "helmet imagery"
+  },
+  {
+   "pair_id": "X021",
+   "shwd": "001506",
+   "external": "ppe_0371_jpg.rf.10284f86d50a4a621b8586f94b8299c0.jpg",
+   "hamming": 0,
+   "ncc": 0.9999,
+   "shwd_split": "trainval",
+   "shwd_source": "helmet imagery"
+  },
+  {
+   "pair_id": "X022",
+   "shwd": "part2_000391",
+   "external": "ppe_0477_jpg.rf.5903a053006e21df216800d1caf5fff0.jpg",
+   "hamming": 0,
+   "ncc": 0.9999,
+   "shwd_split": "trainval",
+   "shwd_source": "helmet imagery"
+  },
+  {
+   "pair_id": "X023",
+   "shwd": "part2_000446",
+   "external": "ppe_0301_jpg.rf.b2d7a8c322bd266c6b9c7bd838338ab3.jpg",
+   "hamming": 0,
+   "ncc": 0.9999,
+   "shwd_split": "trainval",
+   "shwd_source": "helmet imagery"
+  },
+  {
+   "pair_id": "X024",
+   "shwd": "part2_000959",
+   "external": "ppe_0057_jpg.rf.ccf5ea0912b26ec5f8594b00c29ee573.jpg",
+   "hamming": 0,
+   "ncc": 0.9999,
+   "shwd_split": "trainval",
+   "shwd_source": "helmet imagery"
+  },
+  {
+   "pair_id": "X025",
+   "shwd": "part2_001065",
+   "external": "ppe_0500_jpg.rf.98b4535653a6bde0c2836042a645cc71.jpg",
+   "hamming": 0,
+   "ncc": 0.9999,
+   "shwd_split": "trainval",
+   "shwd_source": "helmet imagery"
+  },
+  {
+   "pair_id": "X026",
+   "shwd": "part2_001068",
+   "external": "ppe_0057_jpg.rf.ccf5ea0912b26ec5f8594b00c29ee573.jpg",
+   "hamming": 0,
+   "ncc": 0.9999,
+   "shwd_split": "trainval",
+   "shwd_source": "helmet imagery"
+  },
+  {
+   "pair_id": "X027",
+   "shwd": "part2_001464",
+   "external": "ppe_0299_jpg.rf.b750e3d53239a1fdb0fcb1b30dd0a544.jpg",
+   "hamming": 0,
+   "ncc": 0.9999,
+   "shwd_split": "trainval",
+   "shwd_source": "helmet imagery"
+  },
+  {
+   "pair_id": "X028",
+   "shwd": "part2_001748",
+   "external": "ppe_0512_jpg.rf.8f780562d893cecc24e3b511cbfaa882.jpg",
+   "hamming": 0,
+   "ncc": 0.9999,
+   "shwd_split": "trainval",
+   "shwd_source": "helmet imagery"
+  },
+  {
+   "pair_id": "X029",
+   "shwd": "part2_001978",
+   "external": "ppe_0710_jpg.rf.aee839668ae6c87663ac4558ecabf3dc.jpg",
+   "hamming": 0,
+   "ncc": 0.9999,
+   "shwd_split": "trainval",
+   "shwd_source": "helmet imagery"
+  },
+  {
+   "pair_id": "X030",
+   "shwd": "part2_002297",
+   "external": "ppe_0333_jpg.rf.0dd4ed9846ef0c3e31b271c47191fc11.jpg",
+   "hamming": 0,
+   "ncc": 0.9999,
+   "shwd_split": "trainval",
+   "shwd_source": "helmet imagery"
+  },
+  {
+   "pair_id": "X031",
+   "shwd": "part2_002331",
+   "external": "ppe_0170_jpg.rf.a181a62c372436c08d88fc9079572f56.jpg",
+   "hamming": 0,
+   "ncc": 0.9999,
+   "shwd_split": "trainval",
+   "shwd_source": "helmet imagery"
+  },
+  {
+   "pair_id": "X032",
+   "shwd": "part2_002363",
+   "external": "ppe_0437_jpg.rf.ec2f1c0e1dd65a1ad614a7aaa3956a30.jpg",
+   "hamming": 0,
+   "ncc": 0.9999,
+   "shwd_split": "trainval",
+   "shwd_source": "helmet imagery"
+  },
+  {
+   "pair_id": "X033",
+   "shwd": "001637",
+   "external": "ppe_0356_jpg.rf.eb50aa0b310e57c8bd6ee07d48002741.jpg",
+   "hamming": 0,
+   "ncc": 0.9998,
+   "shwd_split": "test",
+   "shwd_source": "helmet imagery"
+  },
+  {
+   "pair_id": "X034",
+   "shwd": "part2_002330",
+   "external": "ppe_0171_jpg.rf.994c9f4f781a8cba60f47565e668c475.jpg",
+   "hamming": 0,
+   "ncc": 0.9998,
+   "shwd_split": "trainval",
+   "shwd_source": "helmet imagery"
+  },
+  {
+   "pair_id": "X035",
+   "shwd": "part2_001873",
+   "external": "ppe_0540_jpg.rf.58cab1c87ca43134797156988f08f63b.jpg",
+   "hamming": 0,
+   "ncc": 0.9996,
+   "shwd_split": "trainval",
+   "shwd_source": "helmet imagery"
+  },
+  {
+   "pair_id": "X036",
+   "shwd": "001523",
+   "external": "003309_jpg.rf.6c183f31409c3806c85675a95862a5c2.jpg",
+   "hamming": 0,
+   "ncc": 0.9987,
+   "shwd_split": "trainval",
+   "shwd_source": "helmet imagery"
+  },
+  {
+   "pair_id": "X037",
+   "shwd": "part2_001738",
+   "external": "ppe_0384_jpg.rf.7a6962efc8814a63fddc259ac699f4d1.jpg",
+   "hamming": 0,
+   "ncc": 0.992,
+   "shwd_split": "trainval",
+   "shwd_source": "helmet imagery"
+  },
+  {
+   "pair_id": "X038",
+   "shwd": "000816",
+   "external": "005476_jpg.rf.329545fc53361fbd719157d1e8aaa437.jpg",
+   "hamming": 2,
+   "ncc": 0.9999,
+   "shwd_split": "test",
+   "shwd_source": "helmet imagery"
+  },
+  {
+   "pair_id": "X039",
+   "shwd": "part2_000567",
+   "external": "ppe_0348_jpg.rf.fdfbf37f2629840cb567c4e188a53bba.jpg",
+   "hamming": 2,
+   "ncc": 0.9999,
+   "shwd_split": "trainval",
+   "shwd_source": "helmet imagery"
+  },
+  {
+   "pair_id": "X040",
+   "shwd": "part2_000811",
+   "external": "ppe_0237_jpg.rf.0f538868b3e0961b59eddd8b342c4937.jpg",
+   "hamming": 2,
+   "ncc": 0.9999,
+   "shwd_split": "trainval",
+   "shwd_source": "helmet imagery"
+  },
+  {
+   "pair_id": "X041",
+   "shwd": "part2_001265",
+   "external": "ppe_0299_jpg.rf.b750e3d53239a1fdb0fcb1b30dd0a544.jpg",
+   "hamming": 2,
+   "ncc": 0.9999,
+   "shwd_split": "trainval",
+   "shwd_source": "helmet imagery"
+  },
+  {
+   "pair_id": "X042",
+   "shwd": "001262",
+   "external": "000942_jpg.rf.acf7d544c082415759a8cf3addc78a02.jpg",
+   "hamming": 6,
+   "ncc": 0.992,
+   "shwd_split": "trainval",
+   "shwd_source": "helmet imagery"
+  }
+ ]
+}
