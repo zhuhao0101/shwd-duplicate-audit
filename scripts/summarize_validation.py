@@ -24,8 +24,8 @@ sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
 AUD = OUT_DIR
 CODES = ("ND", "SC", "NO")
 
-key = {r["pair_id"]: r for r in csv.DictReader(open(AUD / "validation_key.csv"))}
-rated = list(csv.DictReader(open(AUD / "rating_sheet.csv")))
+key = {r["pair_id"]: r for r in csv.DictReader(open(AUD / "validation_key.csv", encoding="utf-8"))}
+rated = list(csv.DictReader(open(AUD / "rating_sheet.csv", encoding="utf-8")))
 missing = [r["pair_id"] for r in rated if r["decision"].strip().upper() not in CODES]
 if missing:
     sys.exit(f"{len(missing)} pairs without a valid decision (first: {missing[:5]}); nothing written")
@@ -46,7 +46,7 @@ out["accepted_all"] = {"n": n, **{k: acc[k] for k in CODES}, **{f"pct_{k}": roun
 json.dump(out, open(AUD / "validation_summary.json", "w"), indent=1)
 print(json.dumps(out, indent=1))
 
-xr = list(csv.DictReader(open(AUD / "cross_pairs.csv")))
+xr = list(csv.DictReader(open(AUD / "cross_pairs.csv", encoding="utf-8")))
 xm = [r["pair_id"] for r in xr if r["decision"].strip().upper() not in CODES]
 if xm:
     print(f"cross-dataset sheet incomplete ({len(xm)} pairs); cross_validation_summary.json not written")

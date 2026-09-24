@@ -1,0 +1,64 @@
+{
+ "n": 350,
+ "codes": {
+  "ND": "near-duplicate",
+  "SC": "same camera, different content",
+  "NO": "unrelated"
+ },
+ "strata": {
+  "accepted-boundary": {
+   "n": 100,
+   "ND": 19,
+   "SC": 81,
+   "NO": 0,
+   "pct_ND": 19.0,
+   "pct_SC": 81.0,
+   "pct_NO": 0.0
+  },
+  "nearmiss": {
+   "n": 50,
+   "ND": 10,
+   "SC": 40,
+   "NO": 0,
+   "pct_ND": 20.0,
+   "pct_SC": 80.0,
+   "pct_NO": 0.0
+  },
+  "accepted-random": {
+   "n": 100,
+   "ND": 38,
+   "SC": 62,
+   "NO": 0,
+   "pct_ND": 38.0,
+   "pct_SC": 62.0,
+   "pct_NO": 0.0
+  },
+  "rejected-random": {
+   "n": 40,
+   "ND": 6,
+   "SC": 28,
+   "NO": 6,
+   "pct_ND": 15.0,
+   "pct_SC": 70.0,
+   "pct_NO": 15.0
+  },
+  "rejected-boundary": {
+   "n": 60,
+   "ND": 6,
+   "SC": 54,
+   "NO": 0,
+   "pct_ND": 10.0,
+   "pct_SC": 90.0,
+   "pct_NO": 0.0
+  }
+ },
+ "accepted_all": {
+  "n": 200,
+  "ND": 57,
+  "SC": 143,
+  "NO": 0,
+  "pct_ND": 28.5,
+  "pct_SC": 71.5,
+  "pct_NO": 0.0
+ }
+}

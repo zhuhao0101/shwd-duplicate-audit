@@ -1,43 +1,43 @@
 pair_id,shwd,external,hamming,ncc,shwd_split,shwd_source,decision,note
-X001,000012,ppe_0199_jpg.rf.552452f223eb29a7e0e4a62b54d6084f.jpg,0,1.0,trainval,helmet imagery,,
-X002,000292,ppe_0199_jpg.rf.552452f223eb29a7e0e4a62b54d6084f.jpg,0,1.0,trainval,helmet imagery,,
-X003,000339,ppe_0199_jpg.rf.552452f223eb29a7e0e4a62b54d6084f.jpg,0,1.0,trainval,helmet imagery,,
-X004,000398,ppe_0120_jpg.rf.0536debecb350f32ae761258c8f59168.jpg,0,1.0,test,helmet imagery,,
-X005,part2_000070,ppe_0550_jpg.rf.51ff9c436f7c26a1a1b48353bfc0bd62.jpg,0,1.0,test,helmet imagery,,
-X006,part2_000648,ppe_1004_jpg.rf.54a6b92fde518fc670c378d04c3093d2.jpg,0,1.0,trainval,helmet imagery,,
-X007,part2_000699,ppe_0130_jpg.rf.40b8c6420da8b98c40c7d0f6bfe120e6.jpg,0,1.0,trainval,helmet imagery,,
-X008,part2_000725,front_crawling_00728_jpg.rf.b746f6471726bdaea875a12a4da0cc8b.jpg,0,1.0,trainval,helmet imagery,,
-X009,part2_001506,ppe_0547_jpg.rf.cd426fc752772897b43e787d1e5efa0f.jpg,0,1.0,trainval,helmet imagery,,
-X010,part2_001565,ppe_0277_jpg.rf.d017377c13890a1e933970d953fc8d3c.jpg,0,1.0,test,helmet imagery,,
-X011,part2_001833,ppe_0024_jpg.rf.2863da94680c54342a3410a20b8598a9.jpg,0,1.0,trainval,helmet imagery,,
-X012,part2_002178,ppe_0005_jpg.rf.9f92b4a128561fc069c0ca66a8f02381.jpg,0,1.0,trainval,helmet imagery,,
-X013,000112,000197_jpg.rf.154d650579430ec834a8f0e462f963e0.jpg,0,0.9999,trainval,helmet imagery,,
-X014,000352,001014_jpg.rf.37073068aa4a598a284e96c5e8520652.jpg,0,0.9999,trainval,helmet imagery,,
-X015,000426,ppe_0035_jpg.rf.4d713565fb4ae5f7357592b99ae465df.jpg,0,0.9999,trainval,helmet imagery,,
-X016,000754,002717_jpg.rf.35b92ea8e0d7cf378d5cc1a87c5733f2.jpg,0,0.9999,test,helmet imagery,,
-X017,000894,000187_jpg.rf.101e0fe6e237a92c214ad8281b6a7b14.jpg,0,0.9999,trainval,helmet imagery,,
-X018,000894,000187_jpg.rf.9095eae011ace9f604bf3e987c926963.jpg,0,0.9999,trainval,helmet imagery,,
-X019,000992,01185_jpg.rf.aef986e0abec473115e380ab90403fa8.jpg,0,0.9999,trainval,helmet imagery,,
-X020,000992,ppe_0059_jpg.rf.7315badfc3c6854ee1b2fc82f910e0d0.jpg,0,0.9999,trainval,helmet imagery,,
-X021,001506,ppe_0371_jpg.rf.10284f86d50a4a621b8586f94b8299c0.jpg,0,0.9999,trainval,helmet imagery,,
-X022,part2_000391,ppe_0477_jpg.rf.5903a053006e21df216800d1caf5fff0.jpg,0,0.9999,trainval,helmet imagery,,
-X023,part2_000446,ppe_0301_jpg.rf.b2d7a8c322bd266c6b9c7bd838338ab3.jpg,0,0.9999,trainval,helmet imagery,,
-X024,part2_000959,ppe_0057_jpg.rf.ccf5ea0912b26ec5f8594b00c29ee573.jpg,0,0.9999,trainval,helmet imagery,,
-X025,part2_001065,ppe_0500_jpg.rf.98b4535653a6bde0c2836042a645cc71.jpg,0,0.9999,trainval,helmet imagery,,
-X026,part2_001068,ppe_0057_jpg.rf.ccf5ea0912b26ec5f8594b00c29ee573.jpg,0,0.9999,trainval,helmet imagery,,
-X027,part2_001464,ppe_0299_jpg.rf.b750e3d53239a1fdb0fcb1b30dd0a544.jpg,0,0.9999,trainval,helmet imagery,,
-X028,part2_001748,ppe_0512_jpg.rf.8f780562d893cecc24e3b511cbfaa882.jpg,0,0.9999,trainval,helmet imagery,,
-X029,part2_001978,ppe_0710_jpg.rf.aee839668ae6c87663ac4558ecabf3dc.jpg,0,0.9999,trainval,helmet imagery,,
-X030,part2_002297,ppe_0333_jpg.rf.0dd4ed9846ef0c3e31b271c47191fc11.jpg,0,0.9999,trainval,helmet imagery,,
-X031,part2_002331,ppe_0170_jpg.rf.a181a62c372436c08d88fc9079572f56.jpg,0,0.9999,trainval,helmet imagery,,
-X032,part2_002363,ppe_0437_jpg.rf.ec2f1c0e1dd65a1ad614a7aaa3956a30.jpg,0,0.9999,trainval,helmet imagery,,
-X033,001637,ppe_0356_jpg.rf.eb50aa0b310e57c8bd6ee07d48002741.jpg,0,0.9998,test,helmet imagery,,
-X034,part2_002330,ppe_0171_jpg.rf.994c9f4f781a8cba60f47565e668c475.jpg,0,0.9998,trainval,helmet imagery,,
-X035,part2_001873,ppe_0540_jpg.rf.58cab1c87ca43134797156988f08f63b.jpg,0,0.9996,trainval,helmet imagery,,
-X036,001523,003309_jpg.rf.6c183f31409c3806c85675a95862a5c2.jpg,0,0.9987,trainval,helmet imagery,,
-X037,part2_001738,ppe_0384_jpg.rf.7a6962efc8814a63fddc259ac699f4d1.jpg,0,0.992,trainval,helmet imagery,,
-X038,000816,005476_jpg.rf.329545fc53361fbd719157d1e8aaa437.jpg,2,0.9999,test,helmet imagery,,
-X039,part2_000567,ppe_0348_jpg.rf.fdfbf37f2629840cb567c4e188a53bba.jpg,2,0.9999,trainval,helmet imagery,,
-X040,part2_000811,ppe_0237_jpg.rf.0f538868b3e0961b59eddd8b342c4937.jpg,2,0.9999,trainval,helmet imagery,,
-X041,part2_001265,ppe_0299_jpg.rf.b750e3d53239a1fdb0fcb1b30dd0a544.jpg,2,0.9999,trainval,helmet imagery,,
-X042,001262,000942_jpg.rf.acf7d544c082415759a8cf3addc78a02.jpg,6,0.992,trainval,helmet imagery,,
+X001,000012,ppe_0199_jpg.rf.552452f223eb29a7e0e4a62b54d6084f.jpg,0,1.0,trainval,helmet imagery,ND,same photograph
+X002,000292,ppe_0199_jpg.rf.552452f223eb29a7e0e4a62b54d6084f.jpg,0,1.0,trainval,helmet imagery,ND,same photograph
+X003,000339,ppe_0199_jpg.rf.552452f223eb29a7e0e4a62b54d6084f.jpg,0,1.0,trainval,helmet imagery,ND,same photograph
+X004,000398,ppe_0120_jpg.rf.0536debecb350f32ae761258c8f59168.jpg,0,1.0,test,helmet imagery,ND,same photograph
+X005,part2_000070,ppe_0550_jpg.rf.51ff9c436f7c26a1a1b48353bfc0bd62.jpg,0,1.0,test,helmet imagery,ND,same photograph
+X006,part2_000648,ppe_1004_jpg.rf.54a6b92fde518fc670c378d04c3093d2.jpg,0,1.0,trainval,helmet imagery,ND,same photograph
+X007,part2_000699,ppe_0130_jpg.rf.40b8c6420da8b98c40c7d0f6bfe120e6.jpg,0,1.0,trainval,helmet imagery,ND,same photograph
+X008,part2_000725,front_crawling_00728_jpg.rf.b746f6471726bdaea875a12a4da0cc8b.jpg,0,1.0,trainval,helmet imagery,ND,same photograph
+X009,part2_001506,ppe_0547_jpg.rf.cd426fc752772897b43e787d1e5efa0f.jpg,0,1.0,trainval,helmet imagery,ND,same photograph
+X010,part2_001565,ppe_0277_jpg.rf.d017377c13890a1e933970d953fc8d3c.jpg,0,1.0,test,helmet imagery,ND,same photograph
+X011,part2_001833,ppe_0024_jpg.rf.2863da94680c54342a3410a20b8598a9.jpg,0,1.0,trainval,helmet imagery,ND,same photograph
+X012,part2_002178,ppe_0005_jpg.rf.9f92b4a128561fc069c0ca66a8f02381.jpg,0,1.0,trainval,helmet imagery,ND,same photograph
+X013,000112,000197_jpg.rf.154d650579430ec834a8f0e462f963e0.jpg,0,0.9999,trainval,helmet imagery,ND,same photograph
+X014,000352,001014_jpg.rf.37073068aa4a598a284e96c5e8520652.jpg,0,0.9999,trainval,helmet imagery,ND,same photograph
+X015,000426,ppe_0035_jpg.rf.4d713565fb4ae5f7357592b99ae465df.jpg,0,0.9999,trainval,helmet imagery,ND,same photograph
+X016,000754,002717_jpg.rf.35b92ea8e0d7cf378d5cc1a87c5733f2.jpg,0,0.9999,test,helmet imagery,ND,same photograph
+X017,000894,000187_jpg.rf.101e0fe6e237a92c214ad8281b6a7b14.jpg,0,0.9999,trainval,helmet imagery,ND,same photograph
+X018,000894,000187_jpg.rf.9095eae011ace9f604bf3e987c926963.jpg,0,0.9999,trainval,helmet imagery,ND,same photograph
+X019,000992,01185_jpg.rf.aef986e0abec473115e380ab90403fa8.jpg,0,0.9999,trainval,helmet imagery,ND,same photograph
+X020,000992,ppe_0059_jpg.rf.7315badfc3c6854ee1b2fc82f910e0d0.jpg,0,0.9999,trainval,helmet imagery,ND,same photograph
+X021,001506,ppe_0371_jpg.rf.10284f86d50a4a621b8586f94b8299c0.jpg,0,0.9999,trainval,helmet imagery,ND,same photograph
+X022,part2_000391,ppe_0477_jpg.rf.5903a053006e21df216800d1caf5fff0.jpg,0,0.9999,trainval,helmet imagery,ND,same photograph
+X023,part2_000446,ppe_0301_jpg.rf.b2d7a8c322bd266c6b9c7bd838338ab3.jpg,0,0.9999,trainval,helmet imagery,ND,same photograph
+X024,part2_000959,ppe_0057_jpg.rf.ccf5ea0912b26ec5f8594b00c29ee573.jpg,0,0.9999,trainval,helmet imagery,ND,same photograph
+X025,part2_001065,ppe_0500_jpg.rf.98b4535653a6bde0c2836042a645cc71.jpg,0,0.9999,trainval,helmet imagery,ND,same photograph
+X026,part2_001068,ppe_0057_jpg.rf.ccf5ea0912b26ec5f8594b00c29ee573.jpg,0,0.9999,trainval,helmet imagery,ND,same photograph
+X027,part2_001464,ppe_0299_jpg.rf.b750e3d53239a1fdb0fcb1b30dd0a544.jpg,0,0.9999,trainval,helmet imagery,ND,same photograph
+X028,part2_001748,ppe_0512_jpg.rf.8f780562d893cecc24e3b511cbfaa882.jpg,0,0.9999,trainval,helmet imagery,ND,same photograph
+X029,part2_001978,ppe_0710_jpg.rf.aee839668ae6c87663ac4558ecabf3dc.jpg,0,0.9999,trainval,helmet imagery,ND,same photograph
+X030,part2_002297,ppe_0333_jpg.rf.0dd4ed9846ef0c3e31b271c47191fc11.jpg,0,0.9999,trainval,helmet imagery,ND,same photograph
+X031,part2_002331,ppe_0170_jpg.rf.a181a62c372436c08d88fc9079572f56.jpg,0,0.9999,trainval,helmet imagery,ND,same photograph
+X032,part2_002363,ppe_0437_jpg.rf.ec2f1c0e1dd65a1ad614a7aaa3956a30.jpg,0,0.9999,trainval,helmet imagery,ND,same photograph
+X033,001637,ppe_0356_jpg.rf.eb50aa0b310e57c8bd6ee07d48002741.jpg,0,0.9998,test,helmet imagery,ND,same photograph
+X034,part2_002330,ppe_0171_jpg.rf.994c9f4f781a8cba60f47565e668c475.jpg,0,0.9998,trainval,helmet imagery,ND,same photograph
+X035,part2_001873,ppe_0540_jpg.rf.58cab1c87ca43134797156988f08f63b.jpg,0,0.9996,trainval,helmet imagery,ND,same photograph
+X036,001523,003309_jpg.rf.6c183f31409c3806c85675a95862a5c2.jpg,0,0.9987,trainval,helmet imagery,ND,same photograph
+X037,part2_001738,ppe_0384_jpg.rf.7a6962efc8814a63fddc259ac699f4d1.jpg,0,0.992,trainval,helmet imagery,ND,same photograph
+X038,000816,005476_jpg.rf.329545fc53361fbd719157d1e8aaa437.jpg,2,0.9999,test,helmet imagery,ND,same photograph
+X039,part2_000567,ppe_0348_jpg.rf.fdfbf37f2629840cb567c4e188a53bba.jpg,2,0.9999,trainval,helmet imagery,ND,same photograph
+X040,part2_000811,ppe_0237_jpg.rf.0f538868b3e0961b59eddd8b342c4937.jpg,2,0.9999,trainval,helmet imagery,ND,same photograph
+X041,part2_001265,ppe_0299_jpg.rf.b750e3d53239a1fdb0fcb1b30dd0a544.jpg,2,0.9999,trainval,helmet imagery,ND,same photograph
+X042,001262,000942_jpg.rf.acf7d544c082415759a8cf3addc78a02.jpg,6,0.992,trainval,helmet imagery,ND,same photograph
